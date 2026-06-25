@@ -1,0 +1,10 @@
+german_mlm_curriculum_mvp_outputs/
+checkpoints/
+prepared_data/
+*.pt
+*.bin
+*.safetensors
+*.ckpt
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
